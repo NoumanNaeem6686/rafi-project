@@ -1,0 +1,86 @@
+.css-1f8sh1y {
+  width: 800px !important;
+}
+.css-1wndprm {
+  padding-right: 0px !important;
+}
+.css-uxsdy0-MuiGrid-root {
+  margin-left: 0px !important;
+}
+.css-1moo5e1 {
+  padding: 0px 0px 15px 0px !important;
+}
+@media screen and (max-width: 425px) {
+  .mediaCarouselImage {
+    height: 500px !important;
+  }
+  .css-1f8sh1y {
+    width: 350px !important;
+  }
+  .mediaIcon {
+    padding-top: 10px !important;
+    padding-bottom: 0px !important;
+  }
+  .css-19nwd16 {
+    padding-top: 0px !important;
+    margin-top: 0px !important;
+  }
+  .css-mtsjat {
+    margin-top: 0px !important;
+  }
+}
+@media screen and (max-width: 499px) and (min-width: 426px) {
+  .mediaCarouselImage {
+    height: 500px !important;
+  }
+  .css-1f8sh1y {
+    max-width: 400px !important;
+  }
+}
+@media screen and (max-width: 599px) and (min-width: 500px) {
+  .mediaCarouselImage {
+    height: 490px !important;
+  }
+  .css-1f8sh1y {
+    max-width: 450px !important;
+  }
+}
+@media screen and (max-width: 767px) and (min-width: 600px) {
+  .mediaCarouselImage {
+    height: 500px !important;
+  }
+  .css-1f8sh1y {
+    max-width: 550px !important;
+  }
+  .mediaIcon {
+    padding-top: 20px !important;
+    padding-bottom: 0px !important;
+  }
+  .css-19nwd16 {
+    padding-top: 0px !important;
+    margin-top: 0px !important;
+  }
+  .css-mtsjat {
+    margin-top: 0px !important;
+  }
+}
+@media screen and (max-width: 991px) {
+  .css-q2jahj-MuiGrid-root {
+    padding-left: 0px !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .css-1nens7o-MuiTypography-root {
+    font-size: 17px !important;
+  }
+  .css-1e1ctpz-MuiTypography-root,
+  .css-1ub8akx-MuiTypography-root,
+  .css-75x2si-MuiTypography-root {
+    font-size: 17px !important;
+    text-align: left !important;
+  }
+  .css-1rujksk-MuiContainer-root {
+    padding: 0px 10px !important;
+  }
+}
