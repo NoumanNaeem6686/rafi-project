@@ -11,12 +11,18 @@ import Grid from "@mui/material/Grid";
 // Material Kit 2 React components
 import MKBox from "components/MKBox";
 import MKTypography from "components/MKTypography";
+import Map from "components/Map";
 
 function DefaultFooter({ content }) {
   const { brand, socials, menus, copyright } = content;
 
   return (
+    
     <MKBox component="footer">
+      <Grid container xs={12} md={12} lg={12}>
+
+      <Map/>
+      </Grid>
       <Container>
         <Grid container xs={12} md={12} spacing={3}>
           <Grid item xs={12} md={3} sx={{ mb: 3 }}>
